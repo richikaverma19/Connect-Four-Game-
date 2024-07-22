@@ -58,6 +58,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions or suggestions, please contact:
  **Developed by** Richika Verma
-- **Email**: richka19@gmail.com
+- **Email**: richika19@gmail.com
 - **GitHub**: https://github.com/richikaverma19
 
